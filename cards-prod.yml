@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to hridyam prodddd cards related new prodddd APIs"
+  message: "Hey, welcome to hridyam prod cards related new prodddd APIs"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
